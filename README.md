@@ -4,7 +4,7 @@
 # Specific tasks
 + Identify some use cases (it would be great to have at least one use case in each ocean!)
 + Identify sources of remote sensing data with coverage for the given matchup
-+ Produce some recipes for matching up using a range of data sources for example ARGO floats to SST
++ Produce some recipes for matching up using a range of data sources for example `ARGO floats` to `SST`
 
 # Data sets and infrastructure support
 + http://imos-data.s3-website-ap-southeast-2.amazonaws.com/?prefix=IMOS/SRS/SST/ghrsst/L3S-1d/dn/
