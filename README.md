@@ -1,5 +1,5 @@
-# Title
-Matchup - Matching up data from moving platforms to remote sensing
+# Project Title
++ Matching up data from moving platforms to remote sensing
 
 # Specific tasks
 + Identify some use cases (it would be great to have at least one use case in each ocean!)
